@@ -14,3 +14,4 @@
 14.
 15. **4. Testing:**
 16. - (Paste a screenshot of a successful GET request here)
+<img width="1366" height="738" alt="Screenshot 2026-01-28 145409" src="https://github.com/user-attachments/assets/705fd190-b9d2-4c0a-99b1-6f00f4be44d4" />
